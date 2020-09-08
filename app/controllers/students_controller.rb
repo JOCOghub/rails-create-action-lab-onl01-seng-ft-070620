@@ -12,6 +12,9 @@ class StudentsController < ApplicationController
   end
 
   def create
+      
+    
+    redirect_to show  
   end
 
 end
